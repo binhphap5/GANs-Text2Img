@@ -1,2 +1,4 @@
 discriminator_contrastive.pth
 generator_contrastive.pth
+discriminator.pth
+generator.pth
