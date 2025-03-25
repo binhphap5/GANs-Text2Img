@@ -8,16 +8,16 @@ We are exploring two distinct training strategies:
 - **Traditional Loss Functions:** Leveraging conventional GAN loss metrics.
 - **Contrastive Loss Functions:** Integrating contrastive loss to better align semantic features between text and image. 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
 
-<figure style="margin: 0; text-align: center;">
-    <img src="GANs.png" alt="Traditional GAN Loss" style="width: 35%; border: 1px solid #ccc; border-radius: 8px;">
-    <figcaption style="text-align: center; font-style: italic; margin-top: 5px;">Traditional GAN Loss</figcaption>
-</figure>
+<div style="text-align: center;">
+    <img src="GANs.png" alt="Traditional GAN Loss" style="width: 300px; border: 1px solid #ccc; border-radius: 8px;">
+    <div style="margin-top: 5px; font-size: 16px; color: #333;">Traditional GAN Loss</div>
+</div>
 
-<figure style="margin: 0; text-align: center;">
-    <img src="GANs_contrastive.png" alt="Contrastive GAN Loss" style="width: 35%; border: 1px solid #ccc; border-radius: 8px;">
-    <figcaption style="text-align: center; font-style: italic; margin-top: 5px;">Contrastive GAN Loss</figcaption>
-</figure>
+<div style="text-align: center;">
+    <img src="GANs_contrastive.png" alt="Contrastive GAN Loss" style="width: 300px; border: 1px solid #ccc; border-radius: 8px;">
+    <div style="margin-top: 5px; font-size: 16px; color: #333;">Contrastive GAN Loss</div>
+</div>
 
 </div>
