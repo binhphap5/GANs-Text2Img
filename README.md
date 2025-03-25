@@ -8,4 +8,4 @@ We are exploring two distinct training strategies:
 - **Traditional Loss Functions:** Leveraging conventional GAN loss metrics.
 - **Contrastive Loss Functions:** Integrating contrastive loss to better align semantic features between text and image. 
 
-![alt text](GANs.png)!  [alt text](GANs_contrastive.png)
+![alt text](GANs.png)  ![alt text](GANs_contrastive.png)
