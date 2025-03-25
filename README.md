@@ -6,18 +6,10 @@ This project examine the power of Conditional GANs along with a Sentence BERT mo
 
 We are exploring two distinct training strategies:
 - **Traditional Loss Functions:** Leveraging conventional GAN loss metrics.
-- **Contrastive Loss Functions:** Integrating contrastive loss to better align semantic features between text and image. 
+- **Contrastive Loss Functions:** Integrating contrastive loss to better align semantic features between text and image.
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+| Traditional GAN Loss                                                               | Contrastive GAN Loss                                                                        |
+|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| <img src="GANs.png" alt="Traditional GAN Loss" width="300" style="border:1px solid #ccc; border-radius:8px;" /> | <img src="GANs_contrastive.png" alt="Contrastive GAN Loss" width="300" style="border:1px solid #ccc; border-radius:8px;" /> |
+| *Traditional GAN Loss*                                                             | *Contrastive GAN Loss*                                                                      |
 
-<div style="text-align: center;">
-    <img src="GANs.png" alt="Traditional GAN Loss" style="width: 300px; border: 1px solid #ccc; border-radius: 8px;">
-    <div style="margin-top: 5px; font-size: 16px; color: #333;">Traditional GAN Loss</div>
-</div>
-
-<div style="text-align: center;">
-    <img src="GANs_contrastive.png" alt="Contrastive GAN Loss" style="width: 300px; border: 1px solid #ccc; border-radius: 8px;">
-    <div style="margin-top: 5px; font-size: 16px; color: #333;">Contrastive GAN Loss</div>
-</div>
-
-</div>
